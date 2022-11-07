@@ -13,6 +13,7 @@ th {
 }
 
 tr:nth-child(odd) {background-color: #FF7F50;}
+tr:nth-child(even) {background-color: gray;}
 
 
 td {
