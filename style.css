@@ -46,6 +46,9 @@ body {
 }
 
 #aceg {
+  margin-left: auto;
+  margin-right: auto;
+  width: 70%;
   color: #FF1493;
   padding-bottom: 10px;
   text-align: justify;
@@ -54,4 +57,3 @@ body {
 #lenovo {
   color: #FFA500;
 }
-
