@@ -1,6 +1,8 @@
 table {
-  width: 100%;
-  border: 1px solid;
+ padding-left: 30%;
+ padding-right: 30%;
+ width: 100%;
+ border: 1px solid;
 }
 th {
   background-color: #8B0000;
