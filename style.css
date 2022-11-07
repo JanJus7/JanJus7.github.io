@@ -37,6 +37,7 @@ h1 {
 
 body {
   text-align: center;
+  background-color: #7FFF00;
 }
 #qwerty {
   color: #FF00FF
@@ -45,3 +46,4 @@ body {
 #aceg {
   color: #FF1493;
 }
+
