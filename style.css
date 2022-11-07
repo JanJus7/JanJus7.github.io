@@ -29,3 +29,19 @@ img {
   border-radius: 8px;
   display: block;
 }
+
+h1 {
+  text-align: center;
+  color: #006400;
+}
+
+body {
+  text-align: center;
+}
+#qwerty {
+  color: #FF00FF
+}
+
+#aceg {
+  color: #FF1493;
+}
