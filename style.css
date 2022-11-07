@@ -81,3 +81,29 @@ a {
 a:hover {
   background-size: 4px 50px;
 }
+
+:root {
+  --mainColor: #ff9800;
+}
+
+
+h1 {
+  color: var(--mainColor);
+  text-decoration: none;
+}
+
+h1:hover {
+  color: transparent;
+  -webkit-text-stroke: 2px var(--mainColor);
+}
+
+@supports not(-webkit-text-stroke: 2px red) {
+  h1:hover {
+    text-shadow:
+      3px 3px 0 var(--mainColor),
+      -1px -1px 0 var(--mainColor),
+      1px -1px 0 var(--mainColor),
+      -1px 1px 0 var(--mainColor),
+      1px 1px 0 var(--mainColor);
+  }
+}
