@@ -22,6 +22,6 @@
   </tr>
 </table>
 
-<img src="kot.jpg" alt="kot">
+<img src="https://zooart.com.pl/blog/wp-content/uploads/2020/10/kot-bengalski-6.jpeg" alt="kot">
 
 
