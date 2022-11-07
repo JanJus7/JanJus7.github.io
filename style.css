@@ -41,10 +41,16 @@ body {
   background-color: #7FFF00;
 }
 #qwerty {
-  color: #FF00FF
+  padding-top: 10px;
+  color: #FF00FF;
 }
 
 #aceg {
   color: #FF1493;
+  padding-bottom: 10px;
+}
+
+#lenovo {
+  color: #FFA500;
 }
 
